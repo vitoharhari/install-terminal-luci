@@ -1,0 +1,1 @@
+#Uninstall terminal luci
